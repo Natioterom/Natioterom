@@ -1,5 +1,6 @@
-### Hi there 👋
-![image](https://user-images.githubusercontent.com/110919771/216442788-909a65fe-8e41-4e18-9dcb-7c1dc845fc0c.png)
+
+![fondo](https://user-images.githubusercontent.com/110919771/216443464-8009183e-293f-405a-82f7-906fa9584e1a.png)
+
 
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
