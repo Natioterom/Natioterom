@@ -1,5 +1,6 @@
 
-![fondo](https://www.canva.com/design/DAFZdN6TYg8/nAeTWB5sFF-1_gNRuFS9IA/edit?utm_content=DAFZdN6TYg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Diseño sin título](https://user-images.githubusercontent.com/110919771/216446624-9e31dc00-b039-4f82-a0b5-135664927c2e.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Natalia</h1>
