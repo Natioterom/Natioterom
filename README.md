@@ -1,5 +1,5 @@
 
-![fondo](https://user-images.githubusercontent.com/110919771/216443464-8009183e-293f-405a-82f7-906fa9584e1a.png)
+![fondo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuh5aLOcYBw7thTH8kOnIiUkleFvv-rgHe0g&usqp=CAU)
 
 
 <h1 align="center">Hi 👋, I'm Natalia</h1>
