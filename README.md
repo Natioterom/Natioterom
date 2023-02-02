@@ -1,5 +1,5 @@
 
-![fondo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuh5aLOcYBw7thTH8kOnIiUkleFvv-rgHe0g&usqp=CAU)
+![fondo](https://www.canva.com/design/DAFZdN6TYg8/nAeTWB5sFF-1_gNRuFS9IA/edit?utm_content=DAFZdN6TYg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 <h1 align="center">Hi 👋, I'm Natalia</h1>
